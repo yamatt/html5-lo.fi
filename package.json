@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "webpack": "5.89.0",
+    "webpack": "5.91.0",
     "html-minimizer-webpack-plugin": "4.4.0",
     "copy-webpack-plugin": "11.0.0"
   }
